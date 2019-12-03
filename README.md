@@ -6,3 +6,5 @@
                      
  </tr>
  </table>
+ 
+ En este videjuego, los enemigos (personajes rojos) usan el algoritmo de inteligencia artificial Wavefront que se encarga de buscar la ruta más óptima hacia los heroes, quiene a su vez, son controlador por el usuario, y tienen el propodisto de no dejarce atrapar de los enemigos mientras obtienen todas las frutas posibles, que desaparecen y cambia de posision con el tiempo.
