@@ -1,4 +1,4 @@
-# Implementacion de Wavefront en videojugo tipo Pacman
+# Implementacion de Wavefront en videojuego tipo Pacman
 
 <table style="width:100">
 <tr>
