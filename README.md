@@ -1,1 +1,1 @@
-# Implementacion-de-algoritmos-de-inteligencia-artificial-wavefront-en-juegos-de-arcade
+# Implementacion de Wavefront en videojugo tipo pacman
