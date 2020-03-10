@@ -38,8 +38,6 @@ public class BadControllerWavefront : MonoBehaviour {
 		myPosX = controller.GetComponent<GetDataBase> ().initialPosX3;
 		myPosY = controller.GetComponent<GetDataBase> ().initialPosY3;
 
-
-
 		//Debug.Log ("IniciaLLLLLLLLLLLLL: "+me.ToString () + " " + other.ToString ());
 
 		//search (me, other);

@@ -54,7 +54,9 @@ public class GetDataBase : MonoBehaviour {
 		//	j=Random.Range(0,list[0].Count-2);
 		//	aux=list[i][j];
 		//	if(aux!=valueBlock)
+		/*
 		goodP2 = putCharacter (7, 2, character2);
+		*/
 		//}while(aux==valueBlock);
 
 		//do{
@@ -81,13 +83,13 @@ public class GetDataBase : MonoBehaviour {
 	public GameObject followGameObject(){
 		List<GameObject> goods = new List<GameObject> ();
 		goods.Add (goodP1);
-		goods.Add (goodP2);
+		//goods.Add (goodP2);
 
 		GameObject aux = goods [goodCount];
 		if (goodCount == 1)
 			goodCount = 0;
 		else
-			goodCount = 1;
+			goodCount = 0;
 
 		return aux;
 			

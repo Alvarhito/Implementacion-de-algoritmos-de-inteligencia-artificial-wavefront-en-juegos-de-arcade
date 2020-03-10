@@ -207,7 +207,7 @@ MonoBehaviour:
   initialPosY3: 0
   goodP1: {fileID: 0}
   goodP2: {fileID: 0}
-  badCount: 4
+  badCount: 2
 --- !u!4 &101651384
 Transform:
   m_ObjectHideFlags: 0
@@ -323,7 +323,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Puntos: 0'
+  m_Text: Wavefront
 --- !u!222 &141012322
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -434,7 +434,7 @@ Prefab:
     - target: {fileID: 114353902704094164, guid: 630b0b14078e3364fbb6725dc42b4c90,
         type: 2}
       propertyPath: badCount
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 630b0b14078e3364fbb6725dc42b4c90, type: 2}
